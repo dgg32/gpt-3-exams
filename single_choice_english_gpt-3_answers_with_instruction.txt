@@ -1,207 +1,177 @@
-Choose the right word to fill the gap in the following sentence:
 1. Human intervention by mitigating greenhouse gas emission can be possibly the last resort to help _______ climate change.
 A. ameliorate     B. amend     C. promote     D. aggravate
 
 GPT-3: A. ameliorate
 
 
-Choose the right word to fill the gap in the following sentence:
 2. She has been in poor condition and is coming to England for rest and _____ for the first time.
 A. illumination    B. recuperation     C. implication     D. connotation
 
 GPT-3: B. recuperation
 
 
-Choose the right word to fill the gap in the following sentence:
 3. It’s reported that the flame of racial tension in that region was ______ by a speech make by the spokesman of the local government.
 A. executed       B. excavated      C. exacerbated      D. expatriated
 
 GPT-3: C. exacerbated
 
 
-Choose the right word to fill the gap in the following sentence:
 4. One of the conditions of ______ is that you must keep on producing something creative.
 A. possession     B. tendency       C. support      D. tenure
 
-GPT-3: D. tenure
+GPT-3: D. Tenure
 
 
-Choose the right word to fill the gap in the following sentence:
 5. Knowing the six stumbling blocks is certainly a help in avoiding them, but these particular ones cannot be easily ______.
 A. permeated     B. circumvented      C. depleted     D. cemented
 
 GPT-3: B. circumvented
 
 
-Choose the right word to fill the gap in the following sentence:
 6. Situated between the Berkeley Hills and the San Francisco Bay, Richmond is a densely populated community predominated largely by people of color, high unemployment and a large _______ population.
 A. transient      B. permanent      C. superficial      D. marginal
 
-GPT-3: B. permanent
+GPT-3: A. transient
 
 
-Choose the right word to fill the gap in the following sentence:
 7. In Mexico, the government _______ the equivalent of 0.85 percent of the total budget in 2003 for programs promoting gender equity.
 A. encroached     B. infested      C. divulged      D. earmarked
 
 GPT-3: D. earmarked
 
 
-Choose the right word to fill the gap in the following sentence:
 8. At least four people have been arrested in Iran for trying to _______ a nuclear site, an Iranian official was quoted by Iranian media as saying on Sunday.
 A. subsidize      B. sabotage      C. sacrifice      D. safeguard
 
 GPT-3: B. sabotage
 
 
-Choose the right word to fill the gap in the following sentence:
 9. Farmers are encouraged to develop a shareholding system from which they can realize benefits. Meanwhile, they can also sell a share or take it as _______ or warranty.
 A. collateral      B. cooperatives       C. cement      D. crockpot
 
 GPT-3: A. collateral
 
 
-Choose the right word to fill the gap in the following sentence:
 10. It’s an unusually _______ cancer of white blood cells that are overproduced in the bone and invade other parts of the body.
 A. confounded      B. impervious      C. virulent      D. sibilant
 
 GPT-3: C. virulent
 
 
-Choose the right word to fill the gap in the following sentence:
 11. For years, he has made _______ calls or visits with members of his congregation to the widows or families of deceased officers.
 A. impervious      B. condolence       C. sympathy      D. perverse
 
 GPT-3: B. condolence
 
 
-Choose the right word to fill the gap in the following sentence:
 12. The potential demands for development of networked education in less-developed regions are great, but the educational revenue is insufficient, and the ______ of networked education is behind.
 A. infrastructure      B. content      C. pattern      D. valance
 
 GPT-3: A. infrastructure
 
 
-Choose the right word to fill the gap in the following sentence:
 13. In submarine works, the workman, clad in an ______ dress, with his head in a metal helmet, receives air from above by means of forcing pumps and regulators.
 A. inscrutable     B. inflectional     C. ambiguity     D. impervious
 
 GPT-3: D. impervious
 
 
-Choose the right word to fill the gap in the following sentence:
 14. A good education should train students to think by themselves. However, most of them are trained in the technique of examination under ______.
 A. transaction       B. displace      C. duress      D. obligation
 
 GPT-3: C. duress
 
 
-Choose the right word to fill the gap in the following sentence:
 15. The choice of household and industrial waste disposal was between tipping and _______.
 A. sewage      B. incineration      C. afforestation      D. recruitment
 
-GPT-3: B. Incineration
+GPT-3: B. incineration
 
 
-Choose the right word to fill the gap in the following sentence:
 16. The policy by EU that imposes serious constraints on textile imports from China will definitely ______ the bilateral trade in other areas.
 A. entail       B. optimize       C. thwart        D. warrant
 
 GPT-3: C. thwart
 
 
-Choose the right word to fill the gap in the following sentence:
 17. Official figures or estimates are not publicly available, but ______ evidence suggests that immigration is rising.
 A. anecdotal      B. aggregate      C. abortion      D. anthropogenic
 
 GPT-3: A. anecdotal
 
 
-Choose the right word to fill the gap in the following sentence:
 18. In his striving for wealth, power, or sexual satisfaction, he reverts to his true animal nature, and the ______ of civilization falls away.
 A. fame        B. façade        C. facility        D. faculty
 
 GPT-3: B. façade
 
 
-Choose the right word to fill the gap in the following sentence:
 19. The state grants ______ treatment to outstanding athletes in their employment and enrollment for schools.
 A. referential      B. inferential      C. preferential      D. deferential
 
 GPT-3: C. preferential
 
 
-Choose the right word to fill the gap in the following sentence:
 20. Yet the World Development Report suggests that the main ______ on development these days may not be a poverty trap but a violent one.
 A. reservation      B. suppression      C. repression      D. constraint
 
 GPT-3: C. Repression
 
 
-Choose the right word to fill the gap in the following sentence:
 21. If a public school celebrates only Christmas in December, it can ______ students who aren’t Christian.
 A. marginalize      B. facilitate      C. immerse      D. profile
 
 GPT-3: A. marginalize
 
 
-Choose the right word to fill the gap in the following sentence:
 22. We humans appear to be meaning-seeking creatures that have the misfortune to be thrown into a world devoid of ______ meaning.
 A. extrinsic       B. intrinsic       C. external       D. internal
 
 GPT-3: B. intrinsic
 
 
-Choose the right word to fill the gap in the following sentence:
 23. For more about the Trump administration’s steel and aluminum tariffs, watch Fortune’s video: Trump dangled a permanent exemption as _______ to reach a tentative NAFTA deal, though talks continue with no immediate agreement in sight.
 A. interplay      B. perception      C. rationale      D. incentive
 
 GPT-3: D. incentive
 
 
-Choose the right word to fill the gap in the following sentence:
 24. Millennium’s drug, now in early human trials, homes in on prostate cancer cells and aims to ______ them with a precise dose of toxic chemotherapy while leaving surrounding tissue untouched.
 A. obstruct      B. encroach      C. obliterate      D. remit
 
 GPT-3: C. obliterate
 
 
-Choose the right word to fill the gap in the following sentence:
 25. Such systems could be targeted through unauthorized ______, attacks, worms, Trojan horse programs, or malicious insiders.
 A. intrusions     B. inheritance     C. interruptions     D. indentations
 
 GPT-3: A. intrusions
 
 
-Choose the right word to fill the gap in the following sentence:
 26. ______ is usually associated with a slacker mentality: a cold, dispassionate, uninterested apathetic, even condescending attitude toward life and others.
 A. Preconception     B. Stereotype     C. Detachment     D. Scrutiny
 
 GPT-3: B. Stereotype
 
 
-Choose the right word to fill the gap in the following sentence:
 27. A researcher said self- _____ is a risky form of humor because it can draw attention to one’s real shortcomings, and it is “not for everyone”.
 A. dispensation     B. deprecation     C. temerity     D. distortion
 
-GPT-3: B. deprecation
+GPT-3: B. Deprecation
 
 
-Choose the right word to fill the gap in the following sentence:
 28. The investment in real estate ______ a high risk, however, a lot of people refused to give it up.
 A. entailed     B. divulged     C. backfired     D. whined
 
 GPT-3: A. entailed
 
 
-Choose the right word to fill the gap in the following sentence:
 29. Stronger enforcement of regulations would act as a ______ and help reduce corruption levels.
 A. pester     B. equity     C. arousal     D. deterrent
 
 GPT-3: D. deterrent
 
 
-Choose the right word to fill the gap in the following sentence:
 30. Development is not ______ over the long run if it comes at the cost of degrading the environment. We believe that development done in the right way actually improves the quality of the environment.
 A. accessible     B. cardinal     C. sustainable     D. vulnerable
 
