@@ -1,3 +1,137 @@
-31-36 CBCBBA  right 4 wrong 2
+31. The main theme of the reading is_________.
+A. values and attitudes toward work
+B. the employer-employee relationships
+C. materialism and competition in the work world
+D. the relationship between work and relaxation
 
-37-45 CAAACDDBC right 7 wrong 2
+GPT-3: A. values and attitudes toward work
+
+
+32. One outcome of the “ work ethic” is a concern with_________.
+A. spiritualism
+B. materialism
+C. religion
+D. opportunities
+
+GPT-3: B. materialism
+
+
+33. The “American Dream” is the belief that______.
+A. honesty and luck are American characteristics
+B. all hard-working individuals will end up wearing rags
+C. any individual can achieve wealth
+D. “rags-to-riches” stories are not real
+
+GPT-3: C. any individual can achieve wealth
+
+
+34．The author states that workaholics _______.
+A. abuse themselves physically and mentally
+B. are highly productive members of society
+C. are somewhat like slaves to work
+D. both A and B
+
+GPT-3: D. both A and B
+
+
+35. Why have some people begun to place less emphasis on work and more on non- work activities?
+A. They realize that having friends is not as necessary as working.
+B. They realize that excessive work demands can be harmful to their health.
+C. They realize that work is not useful.
+D. They realize that work should be placed in secondary place compared with relaxation.
+
+GPT-3: B. They realize that excessive work demands can be harmful to their health.
+
+
+36. Why don’t some people socialize with their co-workers on the job?
+A. They consider work and play separate activities.
+B. They have nothing in common with their fellow workers.
+C. They feel that socializing with them will create problems at home.
+D. They feel that socializing with them will create problems at workplace.
+
+GPT-3: A. They consider work and play separate activities.
+
+
+
+
+37. The author unexpectedly learned important lessons from ______.
+A. his experience as a corporate-executive
+B. working with a successful business
+C. his visit to the rain forest
+D. his company’s impacts on the environment
+
+GPT-3: C. his visit to the rain forest
+
+
+38. The author thinks that saving the environment is a business opportunity in that____.
+A. many new products can be developed as substitutes for forest products
+B. creativity and technology can be applied in order to save resources
+C. people’s potential for creativity can be tapped to its full
+D. companies can make a lot of money during the process
+
+GPT-3: B. creativity and technology can be applied in order to save resources
+
+
+39. To model Mitsubishi Electric on a rain forest, the author’s idea is that the company should ____.
+A. learn to be as adaptable as a rain forest
+B. consume no resources of its own
+C. be as productive as a rain forest
+D. use all its wastes
+
+GPT-3: A. learn to be as adaptable as a rain forest
+
+
+40. In the author’s opinion, people have been looking at the rain forest all wrong without realizing that the rain forest_____.
+A. is more valuable than we think it is
+B. has its own unique design principles
+C. has far more biodiversity than we believe
+D. has a wide variety of trees that people can see
+
+GPT-3: B. has its own unique design principles
+
+
+41. A company can survive in this highly competitive economy by _____.
+A. reducing the number of its employees
+B. cutting its costs as much as possible
+C. developing unique products
+D. defeating its competitors
+
+GPT-3: C. developing unique products
+
+
+42. The author does not consider competitiveness as the key to success in today’s world because ______.
+A. competition is no longer as sharp as it used to be
+B. it is now more difficult to acquire other companies
+C. being independent ensures the success of a company
+D. cooperative joint ventures will benefit all the partners
+
+GPT-3: D. cooperative joint ventures will benefit all the partners
+
+
+43. To be a good fit, a business should try to _____.
+A. maximize its prof
+B. identify social problems
+C. defeat the others
+D. fulfill social needs
+
+GPT-3: D. fulfill social needs
+
+
+44. According to the author, the most important thing for a business is ______.
+A. survival and excellence in everything
+B. social responsibility
+C. high economic returns
+D. efficient management
+
+GPT-3: B. Social responsibility
+
+
+45. Which one of the following can best serve as a title for the whole passage?
+A. Competition and cooperation
+B. Social responsibility and business development
+C. Business lessons from the rain forest
+D. How can a company survive in a competitive world
+
+GPT-3: C. Business lessons from the rain forest
+
+

@@ -1,4 +1,3 @@
-II. Reading Comprehension (30%) Directions: Read the following passage and choose the best answer to each question. Then write the letter on the Answer Sheet. Passage 1 
 　　No matter how employees feel about work, their primary motivation to work is to earn a living. People’s attitudes toward their jobs are related to the nature of their work and the rewards they receive. For the factory worker, work is a necessary evil which merely ensures survival. The corporation president sees work as a way of obtaining material goods far beyond what is necessary for survival. The teacher and the librarian, although not highly paid, find intellectual stimulation and personal gratification in their jobs.
 　　One’s job in the United States is an important facet of personal identity. “What do you do?” (i.e., for a living) is synonymous with “What are you?” In American English, asking a child, “What do you want to BE when you grow up?” really means, “What kind of work do you want to DO?” Since the American society places a stronger emphasis on “doing” (including producing) than on “being,” work is one of the most important activities in an individual’s life. In addition, what a person “does” helps to determine that person’s prestige. A lawyer has more prestige than a bus driver; a nurse can claim more prestige than a waitress or a waiter. 
 　　Attitudes toward work in the United States have been greatly influenced by the “work ethic.” Also called the “Puritan Ethic” or the “Protestant Ethic,” it motivates people to work hard in order to become successful. The “work ethic” imbues work with the quality of goodness. It originated with the Puritan colonists from England, who came to North America in the 1600’s. The ethic was an outcome of the religious belief that material success was a sign of God’s favor, and that those who achieved this success were among God’s “chosen” and would go to heaven. 
@@ -17,7 +16,10 @@ B. the employer-employee relationships
 C. materialism and competition in the work world  
 D. the relationship between work and relaxation 
 32. One outcome of the “ work ethic” is a concern with_________. 
-A. spiritualism     B. materialism     C. religion     D. opportunities
+A. spiritualism     
+B. materialism     
+C. religion     
+D. opportunities
 33. The “American Dream” is the belief that______.
 A. honesty and luck are American characteristics 
 B. all hard-working individuals will end up wearing rags 
@@ -39,7 +41,7 @@ B. They have nothing in common with their fellow workers.
 C. They feel that socializing with them will create problems at home. 
 D. They feel that socializing with them will create problems at workplace. 
 
-Passage 2
+
 　　　The environment and the emerging information economy are two issues most vital to the future of my business, and perhaps the world. To me, these topics seem intimately linked. Perhaps this is partly because I work for Mitsubishi Electric, an electronics company, and I see our impacts on the environment. But my most important lessons about the link among business, the environment, and the economy did not come from my company. I learned them in the forest. 
 　　　On my trip to Asia, I visited the Malaysian rain forest. What I learned changed my life as a corporate executive. 
 　　　I learned that saving the rain forests in fact, saving the environment is more than an environmental necessity. It is a business opportunity. In our case, it is an opportunity to pursue business opportunities that use creativity and technology to substitute for trees, for resources of any kind. 
@@ -65,7 +67,8 @@ A. his experience as a corporate-executive
 B. working with a successful business 
 C. his visit to the rain forest 
 D. his company’s impacts on the environment 
-38. The author thinks that saving the environment is a business opportunity in that____. A. many new products can be developed as substitutes for forest products 
+38. The author thinks that saving the environment is a business opportunity in that____. 
+A. many new products can be developed as substitutes for forest products 
 B. creativity and technology can be applied in order to save resources 
 C. people’s potential for creativity can be tapped to its full 
 D. companies can make a lot of money during the process
@@ -90,11 +93,15 @@ B. it is now more difficult to acquire other companies
 C. being independent ensures the success of a company 
 D. cooperative joint ventures will benefit all the partners 
 43. To be a good fit, a business should try to _____. 
-A. maximize its prof            B. identify social problems 
-C. defeat the others             D. fulfill social needs 
+A. maximize its prof            
+B. identify social problems 
+C. defeat the others             
+D. fulfill social needs 
 44. According to the author, the most important thing for a business is ______. 
-A. survival and excellence in everything       B. social responsibility 
-C. high economic returns                   D. efficient management
+A. survival and excellence in everything       
+B. social responsibility 
+C. high economic returns                   
+D. efficient management
 45. Which one of the following can best serve as a title for the whole passage? 
 A. Competition and cooperation 
 B. Social responsibility and business development 
