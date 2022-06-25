@@ -4,7 +4,7 @@ B. the employer-employee relationships
 C. materialism and competition in the work world
 D. the relationship between work and relaxation
 
-GPT-3: A. values and attitudes toward work
+GPT-3: A. Values and attitudes toward work.
 
 
 32. One outcome of the “ work ethic” is a concern with_________.
@@ -22,7 +22,7 @@ B. all hard-working individuals will end up wearing rags
 C. any individual can achieve wealth
 D. “rags-to-riches” stories are not real
 
-GPT-3: C. any individual can achieve wealth
+GPT-3: C. Any individual can achieve wealth.
 
 
 34．The author states that workaholics _______.
@@ -31,7 +31,7 @@ B. are highly productive members of society
 C. are somewhat like slaves to work
 D. both A and B
 
-GPT-3: D. both A and B
+GPT-3: B. are highly productive members of society
 
 
 35. Why have some people begun to place less emphasis on work and more on non- work activities?
@@ -123,7 +123,7 @@ B. social responsibility
 C. high economic returns
 D. efficient management
 
-GPT-3: B. Social responsibility
+GPT-3: B. social responsibility
 
 
 45. Which one of the following can best serve as a title for the whole passage?
